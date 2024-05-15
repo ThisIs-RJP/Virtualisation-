@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About Virtualisation.md",
+                "file": "Kubernetes Course/Section 2 Core Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About Docker.md",
+                "file": "Kubernetes Course/Section 2 Core Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "About Docker.md",
+                "file": "Kubernetes Course/Section 2 Core Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "About Docker.md"
+                "file": "Kubernetes Course/Section 2 Core Concepts.md"
               }
             }
           }
@@ -159,9 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99c7272806fc2734",
+  "active": "1768d2bc53da612e",
   "lastOpenFiles": [
-    "About Docker.md",
-    "About Virtualisation.md"
+    "Untitled.md",
+    "Kubernetes Course/Section 2 Core Concepts.md",
+    "About Virtualisation.md",
+    "Kubernetes Course",
+    "About Docker.md"
   ]
 }
