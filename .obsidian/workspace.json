@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes Course/Section 2 Core Concepts.md",
+                "file": "Kubernetes Course/Section 2/Certified Kubernetes Administrator.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes Course/Section 2 Core Concepts.md",
+                "file": "Kubernetes Course/Section 2/Certified Kubernetes Administrator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes Course/Section 2 Core Concepts.md",
+                "file": "Kubernetes Course/Section 2/Certified Kubernetes Administrator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes Course/Section 2 Core Concepts.md"
+                "file": "Kubernetes Course/Section 2/Certified Kubernetes Administrator.md"
               }
             }
           }
@@ -158,10 +158,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1768d2bc53da612e",
+  "active": "7ca63893cf99f947",
   "lastOpenFiles": [
+    "Kubernetes Course/images",
+    "Kubernetes Course/images/Pasted image 20240515183556.png",
+    "Kubernetes Course/Section 2/Core Concepts.md",
+    "Kubernetes Course/Section 2/Certified Kubernetes Administrator.md",
+    "Kubernetes Course/Section 2",
     "Untitled.md",
-    "Kubernetes Course/Section 2 Core Concepts.md",
     "About Virtualisation.md",
     "Kubernetes Course",
     "About Docker.md"
