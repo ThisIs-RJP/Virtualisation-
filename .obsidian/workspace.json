@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1768d2bc53da612e",
+            "id": "e96602a1cb4b5af9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes Course/Section 2/Certified Kubernetes Administrator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99c7272806fc2734",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "About Docker.md",
+                "file": "Kubernetes Course/Section 2/ETCD in Kubernetes.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes Course/Section 2/Certified Kubernetes Administrator.md",
+                "file": "Kubernetes Course/Section 2/ETCD in Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes Course/Section 2/Certified Kubernetes Administrator.md",
+                "file": "Kubernetes Course/Section 2/ETCD in Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes Course/Section 2/Certified Kubernetes Administrator.md"
+                "file": "Kubernetes Course/Section 2/ETCD in Kubernetes.md"
               }
             }
           }
@@ -158,16 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ca63893cf99f947",
+  "active": "e96602a1cb4b5af9",
   "lastOpenFiles": [
+    "Kubernetes Course/Section 2/ETCD.md",
+    "Kubernetes Course/Section 2/Certified Kubernetes Administrator.md",
+    "Kubernetes Course/Section 2/Core Concepts.md",
+    "Kubernetes Course/Section 2/ETCD in Kubernetes.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "About Docker.md",
     "Kubernetes Course/images",
     "Kubernetes Course/images/Pasted image 20240515183556.png",
-    "Kubernetes Course/Section 2/Core Concepts.md",
-    "Kubernetes Course/Section 2/Certified Kubernetes Administrator.md",
     "Kubernetes Course/Section 2",
-    "Untitled.md",
     "About Virtualisation.md",
-    "Kubernetes Course",
-    "About Docker.md"
+    "Kubernetes Course"
   ]
 }

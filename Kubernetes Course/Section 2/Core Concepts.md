@@ -24,16 +24,15 @@
 #### Master Nodes
 
 - This is done by the control ships, which represent the <u>master</u> nodes.
-	- Master nodes are responsible for all of the things mentioned above
-	- Master nodes achieve all of these using a set of components together known as the **control playing components
-- We need master nodes for
-	- plan everything
-	- identify the right ships
-	- store info about the ships
-	- Monitor + Track the location of containers on the ships
-	- Manage the whole process
-	- etc...
+	- Master nodes:
+		- plan everything
+		- identify the right ships
+		- store info about the ships
+		- Monitor + Track the location of containers on the ships
+		- Manage the whole process
+		- etc...
 
+- Master nodes achieve all of these using a set of components together known as the **control playing components
 ### Control Panel of the Master Node
 #### ETCD
 

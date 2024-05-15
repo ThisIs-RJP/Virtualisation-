@@ -14,15 +14,16 @@
 #### About Docker
 
 - Docker consists of multiple tools that are put together
-	-  Docker consists of multiple tools that are put together
-		- Docker CLI and Docker API help build images 
-	- There was support for volumes, auths, security, and finally the container runtime called runC and the daemon that managed runC that was called Containerd
+	- Docker CLI and Docker API help build images 
+		- There was support for volumes, auths, security, and finally the container runtime called runC and the daemon that managed runC that was called Containerd
+			- runC was a container runtime (responsible for executing and managing containers) 
 - Containerd is CRI compatible and can work directly with Kubernetes as all other runtimes
 	- Containerd can be used as a runtime on its own separate from Docker
 	- As a result, Kubernetes continued to maintain support for Docker engine directly
 
 #### Containerd
 
+- A daemon (something running in the background) - manages the execution of containers using runC
 - Separate project on its own now, and a member of CNCF with the graduated status
 	- CNCF => Cloud Native Computing Foundation - an organisation that oversees many open-source projects related to cloud-native computing.
 - If you don't need Docker's other features, you can use Containerd
@@ -82,3 +83,22 @@
 -  ```crictl``` used a lot to troubleshoot containers and view logs
 
 ![[Pasted image 20240515183556.png]]
+
+
+#### Small little comparison!
+
+##### ```ctr```
+- Used for debugging
+- Not user friendly
+- Not used to running and manage containers
+
+##### ```nerdctl```
+- Kind of like Docker
+- Supports lazy pulling (container images are not pulled unless they are needed)
+- Support P2P (communication between devices without the need of a server)
+
+##### ```crictl```
+- Used for special debugging, troubleshoot and check logs
+- Used to interact with the CRI (Container Runtime Interface) compatible container runtime
+- Developed by Kubernetes
+- Works with the kubelet
