@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terraform/About Terraform.md",
+                "file": "Kubernetes Course/Section 2/Kube Controller Manager.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terraform/About Terraform.md",
+                "file": "Kubernetes Course/Section 2/Kube Controller Manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terraform/About Terraform.md",
+                "file": "Kubernetes Course/Section 2/Kube Controller Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terraform/About Terraform.md"
+                "file": "Kubernetes Course/Section 2/Kube Controller Manager.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "ef83c32ce81727e1",
   "lastOpenFiles": [
-    "Terraform/Infrastructure as code.md",
+    "Kubernetes Course/Section 2/Kube Controller Manager.md",
     "Terraform/About Terraform.md",
+    "Terraform/Infrastructure as code.md",
     "Kubernetes Course/Section 2/ETCD in Kubernetes.md",
     "Kubernetes Course/Section 2/Certified Kubernetes Administrator.md",
     "Kubernetes Course/images/Pasted image 20240516100605.png",
