@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e96602a1cb4b5af9",
+            "id": "946003a8535943e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes Course/Section 2/ETCD in Kubernetes.md",
+                "file": "Terraform/Infrastructure as code.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "21a09184ee21c6e7",
+            "id": "ef83c32ce81727e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes Course/Section 2/Kube API.md",
+                "file": "Terraform/About Terraform.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes Course/Section 2/Kube API.md",
+                "file": "Terraform/About Terraform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes Course/Section 2/Kube API.md",
+                "file": "Terraform/About Terraform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes Course/Section 2/Kube API.md"
+                "file": "Terraform/About Terraform.md"
               }
             }
           }
@@ -159,13 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ca63893cf99f947",
+  "active": "ef83c32ce81727e1",
   "lastOpenFiles": [
+    "Terraform/Infrastructure as code.md",
+    "Terraform/About Terraform.md",
     "Kubernetes Course/Section 2/ETCD in Kubernetes.md",
+    "Kubernetes Course/Section 2/Certified Kubernetes Administrator.md",
+    "Kubernetes Course/images/Pasted image 20240516100605.png",
+    "Kubernetes Course/Section 2/Core Concepts.md",
+    "Terraform",
     "Kubernetes Course/Section 2/Kube API.md",
     "Kubernetes Course/Section 2/ETCD.md",
-    "Kubernetes Course/Section 2/Certified Kubernetes Administrator.md",
-    "Kubernetes Course/Section 2/Core Concepts.md",
     "Untitled 1.md",
     "About Docker.md",
     "Kubernetes Course/images",
