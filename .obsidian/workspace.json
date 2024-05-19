@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "da3673a62098fce8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LoadBalancer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ClusterIP.md",
+                "file": "LoadBalancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ClusterIP.md",
+                "file": "LoadBalancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ClusterIP.md"
+                "file": "LoadBalancer.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a626199ca4c3816",
+  "active": "da3673a62098fce8",
   "lastOpenFiles": [
-    "Kubernetes Course/Section 2/Kubernetes Services.md",
     "ClusterIP.md",
+    "LoadBalancer.md",
+    "Kubernetes Course/Section 2/Kubernetes Services.md",
     "Kubernetes Course/images/Pasted image 20240519223057.png",
     "Infrastructure as Code/About Ansible.md",
     "Kubernetes Course/Section 2/Kube Proxy.md",
