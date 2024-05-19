@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "18b2cd4e5220b569",
+            "id": "93ec99f0db220bc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kube Scheduler.md",
+                "file": "Kubernetes Course/Section 2/Kubernetes Services.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d48a8d5b26b588b6",
+            "id": "3a626199ca4c3816",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubelet.md",
+                "file": "ClusterIP.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubelet.md",
+                "file": "ClusterIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubelet.md",
+                "file": "ClusterIP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubelet.md"
+                "file": "ClusterIP.md"
               }
             }
           }
@@ -159,20 +159,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d48a8d5b26b588b6",
+  "active": "3a626199ca4c3816",
   "lastOpenFiles": [
-    "Kube Scheduler.md",
-    "Kubelet.md",
-    "Terraform/Infrastructure as code.md",
+    "Kubernetes Course/Section 2/Kubernetes Services.md",
+    "ClusterIP.md",
+    "Kubernetes Course/images/Pasted image 20240519223057.png",
+    "Infrastructure as Code/About Ansible.md",
+    "Kubernetes Course/Section 2/Kube Proxy.md",
+    "Kubernetes Course/Section 2/Kubelet.md",
+    "Kubernetes Course/Section 2/Kube Scheduler.md",
+    "Kubernetes Course/Section 2/Untitled.md",
+    "Infrastructure as Code/About Terraform.md",
+    "Infrastructure as Code/Infrastructure as code.md",
+    "Kubernetes Course/Section 2/YAML in Kubernetes.md",
     "Kubernetes Course/Section 2/Kube Controller Manager.md",
-    "Terraform/About Terraform.md",
-    "Kubernetes Course/Section 2/ETCD in Kubernetes.md",
-    "Kubernetes Course/Section 2/Certified Kubernetes Administrator.md",
-    "Kubernetes Course/images/Pasted image 20240516100605.png",
-    "Kubernetes Course/Section 2/Core Concepts.md",
-    "Terraform",
     "Kubernetes Course/Section 2/Kube API.md",
+    "Kubernetes Course/Section 2/ETCD in Kubernetes.md",
     "Kubernetes Course/Section 2/ETCD.md",
+    "Kubernetes Course/Section 2/Core Concepts.md",
+    "Kubernetes Course/Section 2/Certified Kubernetes Administrator.md",
+    "Kubernetes Course/Section 2/Deployments.md",
+    "Kubernetes Course/images/Pasted image 20240516100605.png",
+    "Infrastructure as Code",
     "Untitled 1.md",
     "About Docker.md",
     "Kubernetes Course/images",
