@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infrastructure as Code/About Ansible.md",
+                "file": "Kubernetes Course/Section 3/Manual Scheduling.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infrastructure as Code/About Ansible.md",
+                "file": "Kubernetes Course/Section 3/Manual Scheduling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infrastructure as Code/About Ansible.md",
+                "file": "Kubernetes Course/Section 3/Manual Scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infrastructure as Code/About Ansible.md"
+                "file": "Kubernetes Course/Section 3/Manual Scheduling.md"
               }
             }
           }
@@ -197,11 +197,13 @@
   },
   "active": "a188f1584823b008",
   "lastOpenFiles": [
+    "Infrastructure as Code/About Ansible.md",
+    "Kubernetes Course/Section 3/Manual Scheduling.md",
+    "Kubernetes Course/Section 3",
     "Kubernetes Course/Section 2/Kubelet.md",
     "Kubernetes Course/Section 2/Kube Scheduler.md",
     "Kubernetes Course/Section 2/Kube Proxy.md",
     "Kubernetes Course/Section 2/ETCD.md",
-    "Infrastructure as Code/About Ansible.md",
     "Imperative vs Declarative.md",
     "Namespaces.md",
     "Pasted image 20240519231619.png",
