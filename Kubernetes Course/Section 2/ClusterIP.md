@@ -12,3 +12,7 @@
 - The requests are forwarded to one of the pods randomly 
 - Each service gets a name and an IP assigned to it - this is the name that will be used by other pods to access this service
 - This type of service is called ClusterIP
+
+#### Note
+
+- There is a default ClusterIP given at launch from Kubernetes

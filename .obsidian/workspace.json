@@ -25,7 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ClusterIP.md",
+                "file": "Kubernetes Course/Section 2/Deployments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33c374d71fd17193",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Namespaces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a188f1584823b008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Infrastructure as Code/About Ansible.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LoadBalancer.md",
+                "file": "Kubernetes Course/Section 2/LoadBalancer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LoadBalancer.md",
+                "file": "Infrastructure as Code/About Ansible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LoadBalancer.md",
+                "file": "Infrastructure as Code/About Ansible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LoadBalancer.md"
+                "file": "Infrastructure as Code/About Ansible.md"
               }
             }
           }
@@ -171,16 +195,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da3673a62098fce8",
+  "active": "a188f1584823b008",
   "lastOpenFiles": [
-    "ClusterIP.md",
-    "LoadBalancer.md",
-    "Kubernetes Course/Section 2/Kubernetes Services.md",
-    "Kubernetes Course/images/Pasted image 20240519223057.png",
-    "Infrastructure as Code/About Ansible.md",
-    "Kubernetes Course/Section 2/Kube Proxy.md",
     "Kubernetes Course/Section 2/Kubelet.md",
     "Kubernetes Course/Section 2/Kube Scheduler.md",
+    "Kubernetes Course/Section 2/Kube Proxy.md",
+    "Kubernetes Course/Section 2/ETCD.md",
+    "Infrastructure as Code/About Ansible.md",
+    "Imperative vs Declarative.md",
+    "Namespaces.md",
+    "Pasted image 20240519231619.png",
+    "Kubernetes Course/Section 2/Deployments.md",
+    "Kubernetes Course/Section 2/ClusterIP.md",
+    "Kubernetes Course/Section 2/LoadBalancer.md",
+    "Kubernetes Course/Section 2/Kubernetes Services.md",
+    "Kubernetes Course/images/Pasted image 20240519223057.png",
     "Kubernetes Course/Section 2/Untitled.md",
     "Infrastructure as Code/About Terraform.md",
     "Infrastructure as Code/Infrastructure as code.md",
@@ -188,10 +217,8 @@
     "Kubernetes Course/Section 2/Kube Controller Manager.md",
     "Kubernetes Course/Section 2/Kube API.md",
     "Kubernetes Course/Section 2/ETCD in Kubernetes.md",
-    "Kubernetes Course/Section 2/ETCD.md",
     "Kubernetes Course/Section 2/Core Concepts.md",
     "Kubernetes Course/Section 2/Certified Kubernetes Administrator.md",
-    "Kubernetes Course/Section 2/Deployments.md",
     "Kubernetes Course/images/Pasted image 20240516100605.png",
     "Infrastructure as Code",
     "Untitled 1.md",
