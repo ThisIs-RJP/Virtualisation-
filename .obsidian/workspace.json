@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Kubernetes Course/Section 2/Kubernetes Services.md",
+=======
+                "file": "Kubernetes Course/Section 2/Namespaces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a188f1584823b008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes Course/Section 2/LoadBalancer.md",
+>>>>>>> 3fa76fc7356bbffe848e4472c545342a697ebeb3
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
+<<<<<<< HEAD
+=======
+      },
+      {
+        "id": "4b69bfdee8d92087",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76a6f670faa0d45d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes Course/Section 2/Core Concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+>>>>>>> 3fa76fc7356bbffe848e4472c545342a697ebeb3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes Course/Section 2/Kubernetes Services.md",
+                "file": "Kubernetes Course/Section 2/Namespaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes Course/Section 2/Kubernetes Services.md",
+                "file": "Kubernetes Course/Section 2/Namespaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes Course/Section 2/Kubernetes Services.md"
+                "file": "Kubernetes Course/Section 2/Namespaces.md"
               }
             }
           }
@@ -146,9 +183,51 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "e7c34dd7fe30638d",
   "lastOpenFiles": [
     "Kubernetes Course/Section 2/ClusterIP.md",
     "Kubernetes Course/Section 3/Taints and Tolerations.md"
+=======
+  "active": "93ec99f0db220bc8",
+  "lastOpenFiles": [
+    "Kubernetes Course/Section 2/Kubelet.md",
+    "Kubernetes Course/Section 2/Kube Scheduler.md",
+    "Kubernetes Course/Section 2/Kube Proxy.md",
+    "Kubernetes Course/Section 2/Kube Controller Manager.md",
+    "Kubernetes Course/Section 2/Kube API.md",
+    "Kubernetes Course/Section 2/Kubernetes and Services - Simplified.md",
+    "Kubernetes Course/Section 2/Core Concepts.md",
+    "Kubernetes Course/Section 2/Deployments.md",
+    "Kubernetes Course/Section 2/ClusterIP.md",
+    "Kubernetes Course/Section 2/LoadBalancer.md",
+    "Kubernetes Course/Section 2/Kubernetes Services.md",
+    "Kubernetes Course/Section 9/Ingress.md",
+    "Kubernetes Course/Section 9",
+    "Kubernetes Course/Section 2/Namespaces.md",
+    "Kubernetes Course/Section 2/YAML in Kubernetes.md",
+    "Kubernetes Course/Section 2/ETCD in Kubernetes.md",
+    "Kubernetes Course/Section 2/Imperative vs Declarative.md",
+    "Kubernetes Course/Section 2/Certified Kubernetes Administrator.md",
+    "Kubernetes Course/Section 3/Labels and Selectors.md",
+    "Infrastructure as Code/About Ansible.md",
+    "Kubernetes Course/Section 3/Taints and Tolerations.md",
+    "Kubernetes Course/images/Pasted image 20240520122442.png",
+    "Kubernetes Course/images/Pasted image 20240520121355.png",
+    "Kubernetes Course/Section 3/Manual Scheduling.md",
+    "Kubernetes Course/Section 3",
+    "Kubernetes Course/Section 2/ETCD.md",
+    "Kubernetes Course/images/Pasted image 20240519231619.png",
+    "Kubernetes Course/images/Pasted image 20240519223057.png",
+    "Kubernetes Course/Section 2/Untitled.md",
+    "Infrastructure as Code/About Terraform.md",
+    "Infrastructure as Code/Infrastructure as code.md",
+    "Kubernetes Course/images/Pasted image 20240516100605.png",
+    "Infrastructure as Code",
+    "Kubernetes Course/images",
+    "Kubernetes Course/images/Pasted image 20240515183556.png",
+    "Kubernetes Course/Section 2",
+    "Kubernetes Course"
+>>>>>>> 3fa76fc7356bbffe848e4472c545342a697ebeb3
   ]
 }
