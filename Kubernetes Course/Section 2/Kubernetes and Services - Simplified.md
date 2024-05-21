@@ -1,7 +1,7 @@
 
 #### First off, what is a Service?
 
-- A Kubernetes Service provides a stable, reliable way to route traffic to a set of pods. It is an way to expose an application running on a set of pods as a network service
+- A Kubernetes Service provides a stable, reliable way to route traffic to a set of pods. It is a way to expose an application running on a set of pods as a network service
 	- In other words, it lets the users or applications to access other applications in the cluster
 
 #### Now, we can go over some very important Services
