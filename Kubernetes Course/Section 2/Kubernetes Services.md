@@ -23,7 +23,6 @@
 - One of the use cases is to listen to a port on the node and forward request on that port to a port on the pod running the web application
 	- This is called NodePort service
 
-
 #### Service Types
 
 - Already discussed NodePort - where the service makes an internal port accessible on a port on the node

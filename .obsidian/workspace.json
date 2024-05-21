@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Namespaces.md",
+                "file": "Kubernetes Course/Section 2/Namespaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes Course/Section 3/Manual Scheduling.md",
+                "file": "Kubernetes Course/Section 2/Kubernetes Services.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes Course/Section 3/Manual Scheduling.md",
+                "file": "Kubernetes Course/Section 2/Kubernetes Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes Course/Section 3/Manual Scheduling.md",
+                "file": "Kubernetes Course/Section 2/Kubernetes Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes Course/Section 3/Manual Scheduling.md"
+                "file": "Kubernetes Course/Section 2/Kubernetes Services.md"
               }
             }
           }
@@ -197,30 +197,34 @@
   },
   "active": "a188f1584823b008",
   "lastOpenFiles": [
-    "Infrastructure as Code/About Ansible.md",
-    "Kubernetes Course/Section 3/Manual Scheduling.md",
-    "Kubernetes Course/Section 3",
+    "Kubernetes Course/Section 2/YAML in Kubernetes.md",
     "Kubernetes Course/Section 2/Kubelet.md",
+    "Kubernetes Course/Section 2/Namespaces.md",
+    "Kubernetes Course/Section 2/LoadBalancer.md",
+    "Kubernetes Course/Section 2/ClusterIP.md",
     "Kubernetes Course/Section 2/Kube Scheduler.md",
     "Kubernetes Course/Section 2/Kube Proxy.md",
-    "Kubernetes Course/Section 2/ETCD.md",
-    "Imperative vs Declarative.md",
-    "Namespaces.md",
-    "Pasted image 20240519231619.png",
+    "Kubernetes Course/Section 2/ETCD in Kubernetes.md",
+    "Kubernetes Course/Section 2/Imperative vs Declarative.md",
     "Kubernetes Course/Section 2/Deployments.md",
-    "Kubernetes Course/Section 2/ClusterIP.md",
-    "Kubernetes Course/Section 2/LoadBalancer.md",
     "Kubernetes Course/Section 2/Kubernetes Services.md",
+    "Kubernetes Course/Section 2/Certified Kubernetes Administrator.md",
+    "Kubernetes Course/Section 3/Labels and Selectors.md",
+    "Infrastructure as Code/About Ansible.md",
+    "Kubernetes Course/Section 3/Taints and Tolerations.md",
+    "Kubernetes Course/images/Pasted image 20240520122442.png",
+    "Kubernetes Course/images/Pasted image 20240520121355.png",
+    "Kubernetes Course/Section 3/Manual Scheduling.md",
+    "Kubernetes Course/Section 3",
+    "Kubernetes Course/Section 2/ETCD.md",
+    "Kubernetes Course/images/Pasted image 20240519231619.png",
     "Kubernetes Course/images/Pasted image 20240519223057.png",
     "Kubernetes Course/Section 2/Untitled.md",
     "Infrastructure as Code/About Terraform.md",
     "Infrastructure as Code/Infrastructure as code.md",
-    "Kubernetes Course/Section 2/YAML in Kubernetes.md",
     "Kubernetes Course/Section 2/Kube Controller Manager.md",
     "Kubernetes Course/Section 2/Kube API.md",
-    "Kubernetes Course/Section 2/ETCD in Kubernetes.md",
     "Kubernetes Course/Section 2/Core Concepts.md",
-    "Kubernetes Course/Section 2/Certified Kubernetes Administrator.md",
     "Kubernetes Course/images/Pasted image 20240516100605.png",
     "Infrastructure as Code",
     "Untitled 1.md",
@@ -228,7 +232,6 @@
     "Kubernetes Course/images",
     "Kubernetes Course/images/Pasted image 20240515183556.png",
     "Kubernetes Course/Section 2",
-    "About Virtualisation.md",
     "Kubernetes Course"
   ]
 }
