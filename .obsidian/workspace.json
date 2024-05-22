@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node Selectors.md",
+                "file": "Kubernetes Course/Section 3/Resource Requirements and Limits.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node Affinity.md",
+                "file": "Kubernetes Course/Section 3/Node Affinity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "10ef1def35c757d1",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node Affinity.md",
+                "file": "Kubernetes Course/Section 3/Resource Requirements and Limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node Affinity.md",
+                "file": "Kubernetes Course/Section 3/Resource Requirements and Limits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node Affinity.md"
+                "file": "Kubernetes Course/Section 3/Resource Requirements and Limits.md"
               }
             }
           }
@@ -160,10 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8678d409215c632",
+  "active": "d61785e85ed90a32",
   "lastOpenFiles": [
-    "Pasted image 20240521235335.png",
-    "Node Selectors.md",
-    "Node Affinity.md"
+    "Kubernetes Course/Section 2/Kubernetes and Services - Simplified.md",
+    "Kubernetes Course/Section 3/Resource Requirements and Limits.md",
+    "Kubernetes Course/Section 3/Node Selectors.md",
+    "Kubernetes Course/Section 3/Node Affinity.md",
+    "Pasted image 20240521235335.png"
   ]
 }
