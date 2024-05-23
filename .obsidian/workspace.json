@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node Selectors.md",
+                "file": "Kubernetes Course/Section 3/Node Selectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node Affinity.md",
+                "file": "Kubernetes Course/Section 3/Daemon Sets.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node Affinity.md",
+                "file": "Kubernetes Course/Section 3/Daemon Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node Affinity.md",
+                "file": "Kubernetes Course/Section 3/Daemon Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node Affinity.md"
+                "file": "Kubernetes Course/Section 3/Daemon Sets.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "a8678d409215c632",
   "lastOpenFiles": [
+    "Kubernetes Course/Section 3/Node Affinity.md",
+    "Kubernetes Course/Section 3/Daemon Sets.md",
     "Pasted image 20240521235335.png",
-    "Node Selectors.md",
-    "Node Affinity.md"
+    "Kubernetes Course/Section 3/Node Selectors.md"
   ]
 }
