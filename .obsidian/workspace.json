@@ -37,18 +37,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes Course/Section 3/Multiple Schedulers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "caf1f8d468775137",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Kubernetes Course/Section 3/Configuring Scheduler Profiles.md",
                 "mode": "source",
                 "source": false
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,15 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f235cdf46479295",
+  "active": "aeb603f2ae3fd54f",
   "lastOpenFiles": [
-    "Kubernetes Course/Section 3/Configuring Scheduler Profiles.md",
     "Kubernetes Course/Section 3/Multiple Schedulers.md",
+    "AWS/SQS.md",
+    "Kubernetes Course/Section 3/Node Selectors.md",
+    "AWS",
+    "Kubernetes Course/Section 3/Configuring Scheduler Profiles.md",
     "Kubernetes Course/Section 3/Daemon Sets.md",
     "Static Pods.md",
     "Kubernetes Course/Section 3/Resource Requirements and Limits.md",
     "Kubernetes Course/Section 3/Node Affinity.md",
-    "Pasted image 20240521235335.png",
-    "Kubernetes Course/Section 3/Node Selectors.md"
+    "Pasted image 20240521235335.png"
   ]
 }
