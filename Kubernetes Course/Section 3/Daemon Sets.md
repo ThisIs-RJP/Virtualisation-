@@ -19,3 +19,6 @@
 - We can set the node name property on the pod to bypass the scheduler and get the pod placed on a node directly
 	- This is one approach
 - DaemonSets however uses the default scheduler and node affinity rules to schedule pods on nodes
+
+#### Remember
+- The kube-scheduler has no effect on these pods
