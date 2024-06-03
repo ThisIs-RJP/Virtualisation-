@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monitoring a Kubernetes Cluster.md",
+                "file": "Kubernetes Course/Section 6/Backup and Restore.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "10ef1def35c757d1",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monitoring a Kubernetes Cluster.md",
+                "file": "Kubernetes Course/Section 6/Backup and Restore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monitoring a Kubernetes Cluster.md",
+                "file": "Kubernetes Course/Section 6/Backup and Restore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monitoring a Kubernetes Cluster.md"
+                "file": "Kubernetes Course/Section 6/Backup and Restore.md"
               }
             }
           }
@@ -186,8 +185,26 @@
   },
   "active": "c4c09f19cd111049",
   "lastOpenFiles": [
+    "Kubernetes Course/Section 6/Cluster Upgrade Process.md",
+    "Kubernetes Course/Section 6/Backup and Restore.md",
+    "Kubernetes Course/Section 6/OS Upgrades.md",
+    "Kubernetes Course/Section 5/Application Commands.md",
+    "Kubernetes Course/Section 6",
+    "About Virtualisation.md",
+    "Kubernetes Course/Section 5/Untitled",
+    "Infrastructure as Code/Infrastructure as code.md",
+    "Kubernetes Course/Section 2/LoadBalancer.md",
+    "Kubernetes Course/Section 5/Multi Container Pods.md",
+    "Kubernetes Course/Section 5/Kubernetes Secrets.md",
+    "Kubernetes Course/Section 5/Rolling Updates and Rollbacks.md",
+    "Kubernetes Course/Section 3/Static Pods.md",
+    "Kubernetes Course/Section 5/ConfigMaps.md",
+    "Kubernetes Course/Section 5/InitContainers.md",
+    "Pasted image 20240528131410.png",
+    "Kubernetes Course/Section 4/Monitoring a Kubernetes Cluster.md",
+    "Kubernetes Course/Section 5",
+    "Kubernetes Course/Section 4",
     "Kubernetes Course/Section 3/Configuring Scheduler Profiles.md",
-    "Monitoring a Kubernetes Cluster.md",
     "Kubernetes Course/Section 3/Multiple Schedulers.md",
     "AWS/SQS.md",
     "Kubernetes Course/Section 3/Node Selectors.md",

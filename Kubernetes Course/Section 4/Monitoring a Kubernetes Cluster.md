@@ -33,4 +33,3 @@ Proprietary solutions include
 - Kubernetes runs an agent on each node known as a kubelet, which is responsible for receiving instructions from the Kubernetes API master server and running pods on the nodes
 	- Kubelet also contains a sub component - cAdvisor and Container Advisor
 - cAdvisor - responsible for retrieving performance metrics from pods and exposing them through the kubelet API to make the metrics available for the Metrics Server
--  
