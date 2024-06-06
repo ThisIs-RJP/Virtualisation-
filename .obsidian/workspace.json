@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fc96b2858c64f450",
+        "id": "95498142660d0620",
         "type": "tabs",
         "children": [
           {
-            "id": "d61785e85ed90a32",
+            "id": "0d68cf62792fc1f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes Course/Section 3/Node Selectors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8678d409215c632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes Course/Section 3/Daemon Sets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aeb603f2ae3fd54f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes Course/Section 3/Configuring Scheduler Profiles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4c09f19cd111049",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes Course/Section 6/Backup and Restore.md",
+                "file": "Kubernetes Course/Section 7/Authentication.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes Course/Section 6/Backup and Restore.md",
+                "file": "Kubernetes Course/Section 7/Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes Course/Section 6/Backup and Restore.md",
+                "file": "Kubernetes Course/Section 7/Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes Course/Section 6/Backup and Restore.md"
+                "file": "Kubernetes Course/Section 7/Authentication.md"
               }
             }
           }
@@ -183,10 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4c09f19cd111049",
+  "active": "0d68cf62792fc1f0",
   "lastOpenFiles": [
-    "Kubernetes Course/Section 6/Cluster Upgrade Process.md",
+    "Kubernetes Course/Section 7/TLS Certificates.md",
+    "Kubernetes Course/Section 7/Security Primitives.md",
+    "Kubernetes Course/Section 7/Authentication.md",
+    "Kubernetes Course/Section 7",
     "Kubernetes Course/Section 6/Backup and Restore.md",
+    "Kubernetes Course/Section 3/Configuring Scheduler Profiles.md",
+    "Kubernetes Course/Section 3/Daemon Sets.md",
+    "Kubernetes Course/Section 3/Node Selectors.md",
+    "Kubernetes Course/Section 6/Cluster Upgrade Process.md",
     "Kubernetes Course/Section 6/OS Upgrades.md",
     "Kubernetes Course/Section 5/Application Commands.md",
     "Kubernetes Course/Section 6",
@@ -200,16 +170,13 @@
     "Kubernetes Course/Section 3/Static Pods.md",
     "Kubernetes Course/Section 5/ConfigMaps.md",
     "Kubernetes Course/Section 5/InitContainers.md",
-    "Pasted image 20240528131410.png",
+    "Kubernetes Course/images/Pasted image 20240528131410.png",
     "Kubernetes Course/Section 4/Monitoring a Kubernetes Cluster.md",
     "Kubernetes Course/Section 5",
     "Kubernetes Course/Section 4",
-    "Kubernetes Course/Section 3/Configuring Scheduler Profiles.md",
     "Kubernetes Course/Section 3/Multiple Schedulers.md",
     "AWS/SQS.md",
-    "Kubernetes Course/Section 3/Node Selectors.md",
     "AWS",
-    "Kubernetes Course/Section 3/Daemon Sets.md",
     "Static Pods.md",
     "Kubernetes Course/Section 3/Resource Requirements and Limits.md",
     "Kubernetes Course/Section 3/Node Affinity.md",
