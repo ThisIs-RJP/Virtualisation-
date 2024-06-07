@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes Course/Section 7/Authentication.md",
+                "file": "Kubernetes Course/Section 7/How to manage certificates.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes Course/Section 7/Authentication.md",
+                "file": "Kubernetes Course/Section 7/How to manage certificates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes Course/Section 7/Authentication.md",
+                "file": "Kubernetes Course/Section 7/How to manage certificates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes Course/Section 7/Authentication.md"
+                "file": "Kubernetes Course/Section 7/How to manage certificates.md"
               }
             }
           }
@@ -148,9 +148,13 @@
   },
   "active": "0d68cf62792fc1f0",
   "lastOpenFiles": [
+    "Kubernetes Course/Section 7/How to manage certificates.md",
+    "Kubernetes Course/Section 7/Viewing Certificates Details.md",
+    "Kubernetes Course/Section 7/TLS in Kubernetes - Certificate Creation.md",
+    "Kubernetes Course/Section 7/TLS in Kubernetes.md",
+    "Kubernetes Course/Section 7/Authentication.md",
     "Kubernetes Course/Section 7/TLS Certificates.md",
     "Kubernetes Course/Section 7/Security Primitives.md",
-    "Kubernetes Course/Section 7/Authentication.md",
     "Kubernetes Course/Section 7",
     "Kubernetes Course/Section 6/Backup and Restore.md",
     "Kubernetes Course/Section 3/Configuring Scheduler Profiles.md",
@@ -177,9 +181,6 @@
     "Kubernetes Course/Section 3/Multiple Schedulers.md",
     "AWS/SQS.md",
     "AWS",
-    "Static Pods.md",
-    "Kubernetes Course/Section 3/Resource Requirements and Limits.md",
-    "Kubernetes Course/Section 3/Node Affinity.md",
     "Pasted image 20240521235335.png"
   ]
 }
