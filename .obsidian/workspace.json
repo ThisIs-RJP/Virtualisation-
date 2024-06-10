@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes Course/Section 7/API Groups.md",
+                "file": "Kubernetes Course/Section 7/Authentication.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d98ea458d4ef4ce4",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes Course/Section 7/API Groups.md",
+                "file": "Kubernetes Course/Section 7/Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes Course/Section 7/API Groups.md",
+                "file": "Kubernetes Course/Section 7/Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes Course/Section 7/API Groups.md"
+                "file": "Kubernetes Course/Section 7/Authentication.md"
               }
             }
           }
@@ -149,7 +148,9 @@
   },
   "active": "dcec60cae8ac024b",
   "lastOpenFiles": [
-    "Pasted image 20240610182422.png",
-    "Kubernetes Course/Section 7/API Groups.md"
+    "Kubernetes Course/Section 7/API Groups.md",
+    "Kubernetes Course/Section 7/Authorisation.md",
+    "Untitled.md",
+    "Pasted image 20240610182422.png"
   ]
 }
