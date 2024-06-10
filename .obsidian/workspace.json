@@ -1,76 +1,39 @@
 {
   "main": {
-    "id": "42034f24492e7347",
+    "id": "f5b1431db3085d07",
     "type": "split",
     "children": [
       {
-        "id": "fc96b2858c64f450",
+        "id": "eb6468e846cbbdc8",
         "type": "tabs",
         "children": [
           {
-            "id": "d61785e85ed90a32",
+            "id": "dcec60cae8ac024b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes Course/Section 3/Node Selectors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8678d409215c632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes Course/Section 3/Daemon Sets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aeb603f2ae3fd54f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes Course/Section 3/Configuring Scheduler Profiles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4c09f19cd111049",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes Course/Section 7/Authentication.md",
+                "file": "Kubernetes Course/Section 7/API Groups.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "99506e4308a3abe4",
+    "id": "3f0dfcfde68fb529",
     "type": "split",
     "children": [
       {
-        "id": "81c191e921e5bc2c",
+        "id": "67e9bd897736042e",
         "type": "tabs",
         "children": [
           {
-            "id": "0f235cdf46479295",
+            "id": "48040d181f903fd2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,7 +43,7 @@
             }
           },
           {
-            "id": "a9f5d7ff6fbed6b9",
+            "id": "1d13a917a167069e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -95,7 +58,7 @@
             }
           },
           {
-            "id": "00aa15d9232f303d",
+            "id": "3631f183e2052cb5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -106,23 +69,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "10ef1def35c757d1",
+    "id": "d98ea458d4ef4ce4",
     "type": "split",
     "children": [
       {
-        "id": "c4193b11861e3d6d",
+        "id": "957c8e1a38cfe124",
         "type": "tabs",
         "children": [
           {
-            "id": "b8d33291578b7c1d",
+            "id": "1e679607fc90cd4c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes Course/Section 7/Authentication.md",
+                "file": "Kubernetes Course/Section 7/API Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,19 +98,19 @@
             }
           },
           {
-            "id": "47c19944a206b885",
+            "id": "0c8bc29abd83f65f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes Course/Section 7/Authentication.md",
+                "file": "Kubernetes Course/Section 7/API Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "af3a15e0c6a197a9",
+            "id": "9df21dd203ffe2a8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,12 +121,12 @@
             }
           },
           {
-            "id": "604c25fd7964a87b",
+            "id": "2ad5cf51b744e581",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes Course/Section 7/Authentication.md"
+                "file": "Kubernetes Course/Section 7/API Groups.md"
               }
             }
           }
@@ -183,41 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4c09f19cd111049",
+  "active": "dcec60cae8ac024b",
   "lastOpenFiles": [
-    "Kubernetes Course/Section 6/Backup and Restore.md",
-    "Kubernetes Course/images/Pasted image 20240528131410.png",
-    "Kubernetes Course/Section 7/TLS Certificates.md",
-    "Kubernetes Course/Section 7/Security Primitives.md",
-    "Kubernetes Course/Section 7/Authentication.md",
-    "Kubernetes Course/Section 7",
-    "Kubernetes Course/Section 6/Cluster Upgrade Process.md",
-    "Kubernetes Course/Section 6/OS Upgrades.md",
-    "Kubernetes Course/Section 5/Application Commands.md",
-    "Kubernetes Course/Section 6",
-    "About Virtualisation.md",
-    "Kubernetes Course/Section 5/Untitled",
-    "Infrastructure as Code/Infrastructure as code.md",
-    "Kubernetes Course/Section 2/LoadBalancer.md",
-    "Kubernetes Course/Section 5/Multi Container Pods.md",
-    "Kubernetes Course/Section 5/Kubernetes Secrets.md",
-    "Kubernetes Course/Section 5/Rolling Updates and Rollbacks.md",
-    "Kubernetes Course/Section 3/Static Pods.md",
-    "Kubernetes Course/Section 5/ConfigMaps.md",
-    "Kubernetes Course/Section 5/InitContainers.md",
-    "Pasted image 20240528131410.png",
-    "Kubernetes Course/Section 4/Monitoring a Kubernetes Cluster.md",
-    "Kubernetes Course/Section 5",
-    "Kubernetes Course/Section 4",
-    "Kubernetes Course/Section 3/Configuring Scheduler Profiles.md",
-    "Kubernetes Course/Section 3/Multiple Schedulers.md",
-    "AWS/SQS.md",
-    "Kubernetes Course/Section 3/Node Selectors.md",
-    "AWS",
-    "Kubernetes Course/Section 3/Daemon Sets.md",
-    "Static Pods.md",
-    "Kubernetes Course/Section 3/Resource Requirements and Limits.md",
-    "Kubernetes Course/Section 3/Node Affinity.md",
-    "Pasted image 20240521235335.png"
+    "Pasted image 20240610182422.png",
+    "Kubernetes Course/Section 7/API Groups.md"
   ]
 }
