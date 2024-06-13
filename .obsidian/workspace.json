@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes Course/Section 7/Service Accounts.md",
+                "file": "Kubernetes Course/Section 7/Docker Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes Course/Section 7/Service Accounts.md",
+                "file": "Kubernetes Course/Section 7/Docker Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes Course/Section 7/Service Accounts.md",
+                "file": "Kubernetes Course/Section 7/Docker Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes Course/Section 7/Service Accounts.md"
+                "file": "Kubernetes Course/Section 7/Docker Security.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "246ca5a67be621ba",
   "lastOpenFiles": [
-    "Kubernetes Course/Section 5/Kubernetes Secrets.md",
     "Kubernetes Course/Section 7/Service Accounts.md",
+    "Kubernetes Course/Section 7/Docker Security.md",
+    "Kubernetes Course/Section 5/Kubernetes Secrets.md",
     "Kubernetes Course/Section 7/Viewing Certificates Details.md",
     "Kubernetes Course/Section 2/ETCD.md",
     "Kubernetes Course/Section 2/Deployments.md",
@@ -178,7 +179,6 @@
     "About Virtualisation.md",
     "Kubernetes Course/Section 5/Untitled",
     "Infrastructure as Code/Infrastructure as code.md",
-    "Kubernetes Course/Section 2/LoadBalancer.md",
     "Pasted image 20240528131410.png",
     "Kubernetes Course/Section 5",
     "Kubernetes Course/Section 4",
