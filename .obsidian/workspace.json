@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes Course/Section 7/Security Context.md",
+                "file": "Kubernetes Course/Section 7/TLS Certificates.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes Course/Section 7/Security Context.md",
+                "file": "Kubernetes Course/Section 7/TLS Certificates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes Course/Section 7/Security Context.md",
+                "file": "Kubernetes Course/Section 7/TLS Certificates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes Course/Section 7/Security Context.md"
+                "file": "Kubernetes Course/Section 7/TLS Certificates.md"
               }
             }
           }
