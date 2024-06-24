@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "0109def04aa82dd4",
+        "id": "95498142660d0620",
         "type": "tabs",
         "children": [
           {
-            "id": "246ca5a67be621ba",
+            "id": "0d68cf62792fc1f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes Course/Section 7/Security Context.md",
+                "file": "Kubernetes Course/Section 7/How to manage certificates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4534d5dd189b22c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes Course/Section 8/Volumes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fe67920e4141373",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Persistent Volume Claim (PVC).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes Course/Section 7/Security Context.md",
+                "file": "Persistent Volume Claim (PVC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes Course/Section 7/Security Context.md",
+                "file": "Persistent Volume Claim (PVC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes Course/Section 7/Security Context.md"
+                "file": "Persistent Volume Claim (PVC).md"
               }
             }
           }
@@ -146,29 +171,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "246ca5a67be621ba",
+  "active": "6fe67920e4141373",
   "lastOpenFiles": [
-    "Kubernetes Course/Section 7/Docker Security.md",
-    "Kubernetes Course/Section 7/Security Context.md",
-    "Kubernetes Course/Section 7/Untitled",
-    "Kubernetes Course/Section 7/Service Accounts.md",
-    "Kubernetes Course/Section 5/Kubernetes Secrets.md",
-    "Kubernetes Course/Section 7/Viewing Certificates Details.md",
-    "Kubernetes Course/Section 2/ETCD.md",
-    "Kubernetes Course/Section 2/Deployments.md",
-    "Kubernetes Course/Section 2/Core Concepts.md",
-    "Kubernetes Course/Section 2/ClusterIP.md",
+    "Kubernetes Course/Section 8/Volumes.md",
+    "Persistent Volume Claim (PVC).md",
+    "Persistent Volumes (PV's).md",
+    "Kubernetes Course/Section 8/Container Storage Interface (CSI).md",
+    "Kubernetes Course/Section 8/Docker Volumes.md",
+    "Kubernetes Course/Section 8/Storage in Docker.md",
+    "Pasted image 20240624181532.png",
+    "Pasted image 20240624181515.png",
+    "Kubernetes Course/Section 8",
     "Untitled.md",
     "Pasted image 20240610182422.png",
-    "Kubernetes Course/images/Pasted image 20240528131410.png",
-    "Kubernetes Course/Section 7/TLS in Kubernetes.md",
+    "Kubernetes Course/Section 7/Service Accounts.md",
+    "Kubernetes Course/Section 7/Security Context.md",
+    "Kubernetes Course/Section 7/Docker Security.md",
+    "Kubernetes Course/Section 7/Authorisation.md",
+    "Kubernetes Course/Section 7/API Groups.md",
+    "Kubernetes Course/Section 7/How to manage certificates.md",
+    "Kubernetes Course/Section 7/Viewing Certificates Details.md",
     "Kubernetes Course/Section 7/TLS in Kubernetes - Certificate Creation.md",
+    "Kubernetes Course/Section 7/TLS in Kubernetes.md",
+    "Kubernetes Course/Section 7/Authentication.md",
     "Kubernetes Course/Section 7/TLS Certificates.md",
     "Kubernetes Course/Section 7/Security Primitives.md",
-    "Kubernetes Course/Section 7/How to manage certificates.md",
-    "Kubernetes Course/Section 7/Authorisation.md",
-    "Kubernetes Course/Section 7/Authentication.md",
-    "Kubernetes Course/Section 7/API Groups.md",
     "Kubernetes Course/Section 7",
     "Kubernetes Course/Section 6/Backup and Restore.md",
     "Kubernetes Course/Section 3/Configuring Scheduler Profiles.md",
@@ -178,9 +205,8 @@
     "Kubernetes Course/Section 6/OS Upgrades.md",
     "Kubernetes Course/Section 5/Application Commands.md",
     "Kubernetes Course/Section 6",
-    "About Virtualisation.md",
     "Kubernetes Course/Section 5/Untitled",
-    "Pasted image 20240528131410.png",
+    "Kubernetes Course/images/Pasted image 20240528131410.png",
     "Kubernetes Course/Section 5",
     "Kubernetes Course/Section 4",
     "AWS",
