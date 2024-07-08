@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0109def04aa82dd4",
+        "id": "5a3d09c92242b780",
         "type": "tabs",
         "children": [
           {
-            "id": "246ca5a67be621ba",
+            "id": "5ecc2e0aa044e300",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes Course/Section 7/TLS Certificates.md",
+                "file": "Kubernetes Course/Section 9/Network Namespaces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9b415aff3094685",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes Course/Section 9/CNI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes Course/Section 7/TLS Certificates.md",
+                "file": "Kubernetes Course/Section 9/CNI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes Course/Section 7/TLS Certificates.md",
+                "file": "Kubernetes Course/Section 9/CNI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes Course/Section 7/TLS Certificates.md"
+                "file": "Kubernetes Course/Section 9/CNI.md"
               }
             }
           }
@@ -146,8 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "246ca5a67be621ba",
+  "active": "d9b415aff3094685",
   "lastOpenFiles": [
+    "Kubernetes Course/Section 9/Docker Networking.md",
+    "Kubernetes Course/Section 9/CNI.md",
+    "Kubernetes Course/Section 9/Network Namespaces.md",
+    "Kubernetes Course/Section 7/TLS Certificates.md",
     "Kubernetes Course/Section 7/Docker Security.md",
     "Kubernetes Course/Section 7/Security Context.md",
     "Kubernetes Course/Section 7/Untitled",
@@ -163,7 +180,6 @@
     "Kubernetes Course/images/Pasted image 20240528131410.png",
     "Kubernetes Course/Section 7/TLS in Kubernetes.md",
     "Kubernetes Course/Section 7/TLS in Kubernetes - Certificate Creation.md",
-    "Kubernetes Course/Section 7/TLS Certificates.md",
     "Kubernetes Course/Section 7/Security Primitives.md",
     "Kubernetes Course/Section 7/How to manage certificates.md",
     "Kubernetes Course/Section 7/Authorisation.md",
@@ -175,10 +191,7 @@
     "Kubernetes Course/Section 3/Daemon Sets.md",
     "Kubernetes Course/Section 3/Node Selectors.md",
     "Kubernetes Course/Section 6/Cluster Upgrade Process.md",
-    "Kubernetes Course/Section 6/OS Upgrades.md",
-    "Kubernetes Course/Section 5/Application Commands.md",
     "Kubernetes Course/Section 6",
-    "About Virtualisation.md",
     "Kubernetes Course/Section 5/Untitled",
     "Pasted image 20240528131410.png",
     "Kubernetes Course/Section 5",
