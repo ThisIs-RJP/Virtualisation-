@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes Course/Section 9/Cluster Networking.md",
+                "file": "Kubernetes Course/Section 9/Pod Networking.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes Course/Section 9/Cluster Networking.md",
+                "file": "Kubernetes Course/Section 9/Pod Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes Course/Section 9/Cluster Networking.md",
+                "file": "Kubernetes Course/Section 9/Pod Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes Course/Section 9/Cluster Networking.md"
+                "file": "Kubernetes Course/Section 9/Pod Networking.md"
               }
             }
           }
@@ -161,8 +161,10 @@
   },
   "active": "d9b415aff3094685",
   "lastOpenFiles": [
-    "Kubernetes Course/Section 9/Network Namespaces.md",
+    "Pasted image 20240709224318.png",
     "Kubernetes Course/Section 9/Cluster Networking.md",
+    "Kubernetes Course/Section 9/Pod Networking.md",
+    "Kubernetes Course/Section 9/Network Namespaces.md",
     "Kubernetes Course/Section 9/CNI.md",
     "Kubernetes Course/Section 9/Docker Networking.md",
     "Kubernetes Course/Section 7/TLS Certificates.md",
@@ -189,8 +191,6 @@
     "Kubernetes Course/Section 7",
     "Kubernetes Course/Section 6/Backup and Restore.md",
     "Kubernetes Course/Section 3/Configuring Scheduler Profiles.md",
-    "Kubernetes Course/Section 3/Daemon Sets.md",
-    "Kubernetes Course/Section 3/Node Selectors.md",
     "Kubernetes Course/Section 6",
     "Kubernetes Course/Section 5/Untitled",
     "Pasted image 20240528131410.png",
